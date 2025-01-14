@@ -11,7 +11,7 @@ FINAGRO ha jugado un papel clave en el fomento del desarrollo agropecuario en Co
 ## Entendimiento de los datos
 
 El conjunto de datos analizados, relacionados directamente con las colocaciones de créditos de FINAGRO, está comprendido por 1,814,2600 operaciones únicas y 26 características. Las características o variables incluyen información sobre los cortes mensuales de la operación, el tipo de fondeo, el tamaño del productor financiado, el valor del crédito, el valor de la valorización del proyecto, la ubicación del proyecto empresarial, la ubicación de la sucursal que hizo la colocación, el plazo de amortización, el tipo de actividad financiada, el destino del crédito, el valor de la garantía y el género del productor.
-El gráfico a continuación muestra la distribución geográfica de las colocaciones de crédito y la discriminación por la cualidad legal del sujeto (género).
+A continuación, las imágenes muestran la distribución geográfica de las colocaciones de crédito y la discriminación por la cualidad legal del sujeto (género).
 
 **Distribución geográfica** 
 
@@ -36,15 +36,16 @@ Algunos de los hallazgos más significativos del estudio son:
 - Los proyectos liderados por mujeres se llevaron a cabo principalmente en tres departamentos nacionales: Boyacá con un total de 78,58 mil proyectos presentados,  Nariño con un total de 66,77 mil proyectos presentados y Cundinamarca con un total de 61,55 mil proyectos presentados.
 - Entre enero de 2021 y septiembre de 2024, la cobertura de FINAGRO a nivel nacional fue del 100%, lo que indica una presencia absoluta de esta institución en todo el territorio colombiano. Esto es importante al momento de analizar la gestión de créditos puesto que permite identificar que no existen barreras territoriales en los productos y servicios financieros.
 - Con relación al impacto en el desarrollo sostenible de la economía y la sociedad, durante enero de 2021 y septiembre de 2024, FINAGRO financió, en promedio, el 74,97% de los requerimientos de inversión de proyectos MiPymes (Micro, pequeños y medianos productores), los cuales requirieron el 50% de las ocasiones, inversiones por un monto igual o inferior a $ 10.000.000 de pesos.
-- En el área de sostenibilidad ambiental, FINAGRO no es una empresa que se destaque. Este hecho es deducible cuando se determina que el solo el 2,76% de los créditos otorgados entre enero de 2021 y septiembre de 2024 fueron con intenciones de reforestación y recuperación de tierras. 
-El gráfico de barras horizontal muestra la importancia de las características del modelo XGBoost.
+- En el área de sostenibilidad ambiental, FINAGRO no es una empresa que se destaque. Este hecho es deducible cuando se determina que el solo el 2,76% de los créditos otorgados entre enero de 2021 y septiembre de 2024 fueron con intenciones de reforestación y recuperación de tierras.
+
+A continuación, las imágenes muestran las colocaciones de créditos a mujer rural y las colocaciones de créditos en zonas postconficto.
 
 **Colocaciones de créditos a mujer rural** 
 
 <img src="assets/img/grafico_mujer.png" alt="Distribución geográfica de los datos" style="display: block; margin: auto; max-width: 30%; height: auto;">
 
 
-**Colocaciones de créditos a zonas postconflicto**
+**Colocaciones de créditos en zonas postconflicto**
 
 <img src="assets/img/grafico_postconflicto.png" alt="Distribución por género de los datos" style="display: block; margin: auto; max-width: 30%; height: auto;">
 
