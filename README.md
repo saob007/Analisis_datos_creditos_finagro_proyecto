@@ -15,14 +15,19 @@ A continuación, las imágenes muestran la distribución geográfica de las colo
 
 **Distribución geográfica** 
 
-<img src="assets/img/distribucion_creditos_geograficamente.png" alt="Distribución geográfica de los datos" style="display: block; margin: auto; max-width: 30%; height: auto;">
+<p align="center">
+    <img src="assets/img/distribucion_creditos_geograficamente.png" alt="Distribución geográfica de los datos" width="700">
+</p>
 
 
 **Distribución por género**
 
-<img src="assets/img/distribucion_creditos_genero.png" alt="Distribución por género de los datos" style="display: block; margin: auto; max-width: 30%; height: auto;">
+<p align="center">
+    <img src="assets/img/distribucion_creditos_genero.png" alt="Distribución por género de los datoss" width="700">
+</p>
 
 Como parte del proceso de análisis exploratorio de datos, se estandarizaron nombres de variables, se garantizó la integridad de las relaciones entre codificación interna y valores reales, se eliminaron columnas innecesarias, se verificaron valores nulos y registros duplicados y se identificaron valores atípicos.
+
 
 ## Resultados del análisis
 
@@ -38,19 +43,23 @@ Algunos de los hallazgos más significativos del estudio son:
 - Con relación al impacto en el desarrollo sostenible de la economía y la sociedad, durante enero de 2021 y septiembre de 2024, FINAGRO financió, en promedio, el 74,97% de los requerimientos de inversión de proyectos MiPymes (Micro, pequeños y medianos productores), los cuales requirieron el 50% de las ocasiones, inversiones por un monto igual o inferior a $ 10.000.000 de pesos.
 - En el área de sostenibilidad ambiental, FINAGRO no es una empresa que se destaque. Este hecho es deducible cuando se determina que el solo el 2,76% de los créditos otorgados entre enero de 2021 y septiembre de 2024 fueron con intenciones de reforestación y recuperación de tierras.
 
-A continuación, las imágenes muestran las colocaciones de créditos a mujer rural y las colocaciones de créditos en zonas postconficto.
+A continuación, las imágenes muestran la evolución de los créditos otorgados a mujer rural, su representatividad y las colocaciones de créditos en zonas postconficto.
 
-**Colocaciones de créditos a mujer rural** 
+**Distribución de las colocaciones de créditos a mujer rural en el tiempo** 
 
-<img src="assets/img/grafico_mujer.png" alt="Distribución geográfica de los datos" style="display: block; margin: auto; max-width: 30%; height: auto;">
+<p align="center">
+    <img src="assets/img/grafico_mujer.png" alt="Distribución de los créditos para las mujeres rurales" width="700">
+</p>
 
 
 **Colocaciones de créditos en zonas postconflicto**
 
-<img src="assets/img/grafico_postconflicto.png" alt="Distribución por género de los datos" style="display: block; margin: auto; max-width: 30%; height: auto;">
+<p align="center">
+    <img src="assets/img/grafico_postconflicto.png" alt="Distribución geográfica de los créditos en zonas postconflicto" width="700">
+</p>
+
 
 ## Conclusión
-
 
 FINAGRO ha desempeñado un papel fundamental en la transformación del sector rural colombiano, fomentando la diversificación agropecuaria al financiar proyectos que reducen la dependencia de monocultivos tradicionales y promueven el uso de tecnologías modernas. Además, ha logrado avances significativos en la inclusión financiera de las mujeres rurales, permitiéndoles acceder a recursos para emprender proyectos agrícolas, ganaderos y de microempresas, fortaleciendo así su autonomía económica. Por otro lado, los programas destinados a zonas de posconflicto han generado empleo, infraestructura y cohesión social, contribuyendo a la estabilización económica y la consolidación de la paz en comunidades afectadas por el conflicto armado.
 Sin embargo, aún persisten retos, como la limitada cobertura en regiones de difícil acceso, la disminución de créditos destinados a zonas de posconflicto en los últimos años y la necesidad de ajustar las estrategias para maximizar el impacto según los perfiles de productores atendidos. Estos desafíos reflejan oportunidades de mejora en la oferta de financiamiento para seguir transformando el panorama rural colombiano.
