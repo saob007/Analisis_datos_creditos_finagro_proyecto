@@ -10,7 +10,7 @@ FINAGRO ha jugado un papel clave en el fomento del desarrollo agropecuario en Co
 
 ## Entendimiento de los datos
 
-El conjunto de datos analizados, relacionados directamente con las colocaciones de créditos de FINAGRO, está comprendido por 1,814,2600 operaciones únicas y 26 características. Las características o variables incluyen información sobre los cortes mensuales de la operación, el tipo de fondeo, el tamaño del productor financiado, el valor del crédito, el valor de la valorización del proyecto, la ubicación del proyecto empresarial, la ubicación de la sucursal que hizo la colocación, el plazo de amortización, el tipo de actividad financiada, el destino del crédito, el valor de la garantía y el género del productor.
+El conjunto de datos analizados, relacionados directamente con las colocaciones de créditos de FINAGRO, está comprendido por 1,814,260 operaciones únicas y 26 características. Las características o variables incluyen información sobre los cortes mensuales de la operación, el tipo de fondeo, el tamaño del productor financiado, el valor del crédito, el valor de la valorización del proyecto, la ubicación del proyecto empresarial, la ubicación de la sucursal que hizo la colocación, el plazo de amortización, el tipo de actividad financiada, el destino del crédito, el valor de la garantía y el género del productor.
 A continuación, las imágenes muestran la distribución geográfica de las colocaciones de crédito y la discriminación por la cualidad legal del sujeto (género).
 
 **Distribución geográfica** 
